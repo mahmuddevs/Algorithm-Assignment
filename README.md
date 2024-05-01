@@ -1,4 +1,6 @@
-# DFS Steps and Algorithm  
+# DFS Algorithm and Steps 
+
+### Depth First Search ( DFS ): Algorithm
 
 ### Depth First Search ( DFS ): Procedure
 
