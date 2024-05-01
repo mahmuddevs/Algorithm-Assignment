@@ -23,6 +23,19 @@ In this case we can start the traversal from node "0". We need to define a stack
 
 ## Step 2:
 
-We found 2 adjacent nodes here 1, 2 and 3. 
+We found 3 adjacent nodes here 1, 2 and 3. 
 
 <img src="images/4.jpg" width="60%" alt="image_4"/>
+
+<ul>
+  <li>Now push anyone of these nodes to the stack (In this case 3). </li>
+  <li>Then check if there are any adjacent nodes of the current node (of node 3).</li>
+</ul>
+
+## Step 3:
+
+Keep repeating this process untill there are no adjacent node of the current node.
+
+<img src="images/5.jpg" width="60%" alt="image_5"/>
+<img src="images/6.jpg" width="60%" alt="image_6"/>
+<img src="images/7.jpg" width="60%" alt="image_7"/>
