@@ -39,3 +39,8 @@ Keep repeating this process untill there are no adjacent node of the current nod
 <img src="images/5.jpg" width="60%" alt="image_5"/>
 <img src="images/6.jpg" width="60%" alt="image_6"/>
 <img src="images/7.jpg" width="60%" alt="image_7"/>
+
+<ul>
+  <li>Here node "4" has no adjacent node. So we will pop it out of the stack to check the previous node.</li>
+  <li>If the previous node has an adjacent node push it in the stack or pop the current node out of stack until any unvisited node is found</li>
+</ul>
