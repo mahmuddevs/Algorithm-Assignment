@@ -63,4 +63,4 @@ And the DFS output starting from node "0" is: 0, 3, 5, 2, 4, 1
 <img src="images/11.jpg" width="60%" alt="image_11"/>
 
 ** Output of the Code
-<img src="images/output.jpg" width="60%" alt="output"/>
+<img src="images/output.png" width="60%" alt="output"/>
