@@ -50,7 +50,7 @@ Keep repeating this process untill there are no adjacent node of the current nod
 
 Keep repating step 2 and step 3 until the stack is empty.
 
-<img src="images/8" width="60%" alt="image_8"/>
+<img src="images/8.jpg" width="60%" alt="image_8"/>
 <img src="images/9.jpg" width="60%" alt="image_9"/>
 <img src="images/10.jpg" width="60%" alt="image_10"/>
 
