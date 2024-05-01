@@ -44,3 +44,23 @@ Keep repeating this process untill there are no adjacent node of the current nod
   <li>Here node "4" has no adjacent node. So we will pop it out of the stack to check the previous node.</li>
   <li>If the previous node has an adjacent node push it in the stack or pop the current node out of stack until any unvisited node is found</li>
 </ul>
+
+
+## Step 4:
+
+Keep repating step 2 and step 3 until the stack is empty.
+
+<img src="images/8" width="60%" alt="image_8"/>
+<img src="images/9.jpg" width="60%" alt="image_9"/>
+<img src="images/10.jpg" width="60%" alt="image_10"/>
+
+
+## Step 5:
+
+Now the output is generated and it represents a spanning tree.
+
+And the DFS output starting from node "0" is: 0, 3, 5, 2, 4, 1
+<img src="images/11.jpg" width="60%" alt="image_11"/>
+
+** Output of the Code
+<img src="images/output.jpg" width="60%" alt="output"/>
