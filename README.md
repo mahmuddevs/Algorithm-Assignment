@@ -77,3 +77,7 @@ And the DFS output starting from node "0" is: 0, 3, 5, 2, 4, 1
 ## Output of the Code:
 
 <img src="images/output.png" width="60%" alt="output"/>
+
+## Git Bash Screenshot:
+
+<img src="images/git bash.png" width="60%" alt="git_bash"/>
