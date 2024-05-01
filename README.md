@@ -1,6 +1,9 @@
 # DFS Algorithm and Steps 
 
 ### Depth First Search ( DFS ): Algorithm
+<ol>
+  <li></li>
+</ol>
 
 ### Depth First Search ( DFS ): Procedure
 
